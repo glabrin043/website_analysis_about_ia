@@ -6,7 +6,10 @@ Contenido del proyecto
 - formulario.html: formulario para ingresar nombre, correo electrónico, percepción sobre el futuro de la IA y comentarios.
 - noticias.html: pagina con recoleccion de noticias relevantes de analisis sobre la IA y su impacto.
 - README.md: documentación del proyecto.
+
 Si guardaste los archivos con los nombres index_semantico.html y formulario_semantico.html, actualizá los enlaces entre páginas o renombrá los archivos para que coincidan con los nombres indicados arriba.
+
+Link de acceso online https://glabrin043.github.io/website_analysis_about_ia/index.html
 
 Tecnologías utilizadas
 - HTML5: estructura y contenido de las páginas.
